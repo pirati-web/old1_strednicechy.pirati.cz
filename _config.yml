@@ -1,9 +1,9 @@
-title: Oblast Piráti
+title: Piráti Střední Čechy
 baseurl: 
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl:
+facebookurl: https://www.facebook.com/pirati.stc
 gems:
   - jekyll-sitemap
   - i18n
