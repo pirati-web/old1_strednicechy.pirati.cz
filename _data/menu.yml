@@ -10,6 +10,10 @@
   title: Články
   url: /clanky/
   icon: fa-newspaper-o
+-
+  title: Kalendář
+  url: /kalendar/
+  icon: fa-calendar
 
 -
   title: Pirati.cz
