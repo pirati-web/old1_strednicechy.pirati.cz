@@ -2,7 +2,7 @@
 title: Jak se s námi spojit?
 layout: page
 description: Jak kontaktovat Piráty
-keywords: kontakt, politika, piráti
+keywords: kontakt, politika, piráti, střední čechy
 ---
 
 Lenka Kozlová (předsedkyně KS): lenka.kozlova@pirati.cz
