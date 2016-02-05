@@ -1,25 +1,10 @@
 ---
-title: O nás
+title: Program pro krajské volby 2016
 layout: page
-description: Základní programové teze a něco z historie pirátů.
+description: Program a teze
 keywords: program, transparence, svobodný software, demokracie
 ---
-## Z historie
-
-
-
-## Programové teze
-
-### Transparentnost
-
-
-
-### Stát 21.století
-
-- Masivní použití IT tehchnologií.
-- Vše musí být možné vyřídit přes internet!
-- Preferování [svobodného software](http://cs.wikipedia.org/wiki/Svobodn%C3%BD_software) a hardware.
-
+## Krajské volby 2016
 
 ### [Přímá demokracie](http://cs.wikipedia.org/wiki/P%C5%99%C3%ADm%C3%A1_demokracie)
 
