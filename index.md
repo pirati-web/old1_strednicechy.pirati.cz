@@ -3,17 +3,15 @@ layout: page
 section: blog
 description: Výchozí stránka pirátské buňky ve Středních Čechách s nejnovějšími články a základním rozcestníkem.
 keywords: piráti, organizace, transparence, politika
-title: Zkouška
+title: Vítejte na webu středočeských Pirátů
 ---
 <section class="hero alert-box secondary">
 	<div class="row">
 		<div class="small-8 columns">
 			<p>
-Nazdar, piráti!<br/>
 Chceš se setkat s Piráty?<br/>
-				Je ti blízký pirátský program / ideje?<br/>
-				Máš kuráž a taky chceš transparentnější a modernější město, kraj a stát?<br/>
-				Zaujaly tě naše akce? Přidej se k nám!
+Je ti blízký pirátský program?<br/>
+Zaujaly tě naše akce? Přidej se k nám!
 			</p>
 
 			<a href="/kontakt/" class="primary button test">Jak nás kontaktovat →</a>
