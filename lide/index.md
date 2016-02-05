@@ -5,9 +5,7 @@ style: portrets
 description: Základní informace o jednotlivých pirátech. Přidáš se k nám?
 keywords: lide, piráti, podpora
 ---
-
-
-  {% for person in site.data.my_people %}
+{% for person in site.data.my_people %}
 <img src="/images/people/{{person}}.jpg" alt="{{ site.data.people[person].name }} - foto" class="left" />
 
 ### {{ site.data.people[person].name }}
@@ -29,11 +27,9 @@ keywords: lide, piráti, podpora
 
 <img src="/static/media/iwantyou.jpg" alt="posila - foto" class="left" />
 
-### ?? Další odvážlivec, pirát, co má kuráž ??
+### Kandidáti do krajských voleb
 
 *aktivní/angažovaný*
 
 Člověk, kterému jsou blízké pirátské ideje a chce pomoct je hájit.
 <i class="fa fa-thumbs-o-up"></i>
-
-Ozvi se někomu z nás!
