@@ -25,11 +25,11 @@ keywords: lide, piráti, podpora
   {% endfor %}
 
 
-<img src="/static/media/iwantyou.jpg" alt="posila - foto" class="left" />
-
 ### Kandidáti do krajských voleb
 
-*aktivní/angažovaný*
+1. AAA
+2. BBB
+3. CCC
+4. DDD
+5. EEE
 
-Člověk, kterému jsou blízké pirátské ideje a chce pomoct je hájit.
-<i class="fa fa-thumbs-o-up"></i>
