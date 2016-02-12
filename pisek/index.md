@@ -13,9 +13,6 @@ A tady je seznam syntaxí pro Markdown: [seznam syntaxí](http://example.com/ "k
 
 *single asterisks*
 
-_single underscores_
-
 **double asterisks**
 
-__double underscores__
-
+<marquee scrollamount=3>PIRÁTI</marquee>
