@@ -15,4 +15,5 @@ A tady je seznam syntaxí pro Markdown: [seznam syntaxí](http://example.com/ "k
 
 **double asterisks**
 
-<marquee scrollamount=3>PIRÁTI</marquee>
+<b>tučně</b>
+
