@@ -9,11 +9,10 @@ keywords: pokus
 
 Seznam ikon: <a href="http://fortawesome.github.io/Font-Awesome/icons/">odkaz</a>
 
-A tady je seznam syntaxí pro Markdown: [seznam syntaxí](http://example.com/ "klikni") 
+[Seznam syntaxí](https://daringfireball.net/projects/markdown/syntax "klikni") pro Markdown:  
 
 *single asterisks*
 
 **double asterisks**
 
-<b>tučně</b>
 
