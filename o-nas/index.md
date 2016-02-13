@@ -1,6 +1,6 @@
 ---
 title: Program pro krajské volby 2016
-layout: page
+layout: default
 description: Program a teze
 keywords: program, transparence, svobodný software, demokracie
 ---
