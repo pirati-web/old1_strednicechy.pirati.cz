@@ -1,6 +1,6 @@
 ---
 title: Jak se s námi spojit?
-layout: page
+layout: default
 description: Jak kontaktovat Piráty
 keywords: kontakt, politika, piráti, střední čechy
 ---
