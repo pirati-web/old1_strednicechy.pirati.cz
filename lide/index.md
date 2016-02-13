@@ -1,6 +1,6 @@
 ---
 title: Lidé
-layout: page
+layout: default
 style: portrets
 description: Základní informace o jednotlivých pirátech. Přidáš se k nám?
 keywords: lide, piráti, podpora
